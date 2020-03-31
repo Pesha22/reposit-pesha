@@ -1,0 +1,27 @@
+{
+  "name": "lesson-glo",
+  "version": "1.0.0",
+  "description": "тут что-то будет(но это не точно)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pesha22/lesson-glo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pesha22/lesson-glo/issues"
+  },
+  "homepage": "https://github.com/Pesha22/lesson-glo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
